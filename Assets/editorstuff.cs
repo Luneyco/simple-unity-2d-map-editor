@@ -84,8 +84,8 @@ public class GridEditor : Editor {
 					oldIndex = index;
 					grid.tilePrefab = grid.tileSet.prefabs[index];
 
-					float width = grid.tilePrefab.renderer.bounds.size.x;
-					float height = grid.tilePrefab.renderer.bounds.size.y;
+					float width = grid.tilePrefab.GetComponent<Renderer>().bounds.size.x;
+					float height = grid.tilePrefab.GetComponent<Renderer>().bounds.size.y;
 
 					grid.width = width; 
 					grid.height = height;

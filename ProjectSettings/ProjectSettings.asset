@@ -3,15 +3,25 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 7
   AndroidProfiler: 0
   defaultScreenOrientation: 0
   targetDevice: 2
+=======
+  serializedVersion: 6
+  AndroidProfiler: 0
+  defaultScreenOrientation: 0
+  targetDevice: 2
+  targetGlesGraphics: 1
+  targetIOSGraphics: -1
+>>>>>>> a059bed... map bug
   targetResolution: 0
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
   productName: _2D v3
+  cloudProjectId: 
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_ShowUnitySplashScreen: 1
@@ -24,6 +34,10 @@ PlayerSettings:
   m_ActiveColorSpace: 0
   m_MTRendering: 1
   m_MobileMTRendering: 0
+<<<<<<< HEAD
+=======
+  m_UseDX11: 0
+>>>>>>> a059bed... map bug
   m_Stereoscopic3D: 0
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
@@ -62,14 +76,18 @@ PlayerSettings:
   xboxSpeechDB: 0
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
+<<<<<<< HEAD
   n3dsDisableStereoscopicView: 0
   n3dsEnableSharedListOpt: 1
   n3dsEnableVSync: 0
+=======
+>>>>>>> a059bed... map bug
   xboxOneResolution: 0
   ps3SplashScreen: {fileID: 0}
   videoMemoryForVertexBuffers: 0
   psp2PowerMode: 0
   psp2AcquireBGM: 1
+<<<<<<< HEAD
   wiiUTVResolution: 0
   wiiUGamePadMSAA: 1
   wiiUSupportsNunchuk: 0
@@ -79,6 +97,8 @@ PlayerSettings:
   wiiUSupportsProController: 0
   wiiUAllowScreenCapture: 1
   wiiUControllerCount: 0
+=======
+>>>>>>> a059bed... map bug
   m_SupportedAspectRatios:
     4:3: 1
     5:4: 1
@@ -91,7 +111,10 @@ PlayerSettings:
   metroEnableIndependentInputSource: 0
   metroEnableLowLatencyPresentationAPI: 0
   xboxOneDisableKinectGpuReservation: 0
+<<<<<<< HEAD
   virtualRealitySupported: 0
+=======
+>>>>>>> a059bed... map bug
   productGUID: 3a8984573b6d44decadf1ac29eacc6ec
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
@@ -135,6 +158,7 @@ PlayerSettings:
     serializedVersion: 2
     rgba: 0
   iOSLaunchScreenFillPct: 1
+<<<<<<< HEAD
   iOSLaunchScreenSize: 100
   iOSLaunchScreenCustomXibPath: 
   iOSLaunchScreeniPadType: 0
@@ -146,6 +170,9 @@ PlayerSettings:
   iOSLaunchScreeniPadSize: 100
   iOSLaunchScreeniPadCustomXibPath: 
   iOSDeviceRequirements: []
+=======
+  iOSLaunchScreenCustomXibPath: 
+>>>>>>> a059bed... map bug
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
@@ -158,7 +185,10 @@ PlayerSettings:
   - width: 320
     height: 180
     banner: {fileID: 0}
+<<<<<<< HEAD
   androidGamepadSupportLevel: 0
+=======
+>>>>>>> a059bed... map bug
   resolutionDialogBanner: {fileID: 0}
   m_BuildTargetIcons:
   - m_BuildTarget: 
@@ -177,6 +207,7 @@ PlayerSettings:
     m_Automatic: 0
   webPlayerTemplate: APPLICATION:Default
   m_TemplateCustomTags: {}
+<<<<<<< HEAD
   wiiUTitleID: 0005000011000000
   wiiUGroupID: 00010000
   wiiUCommonSaveSize: 4096
@@ -194,6 +225,8 @@ PlayerSettings:
   wiiUTVStartupScreen: {fileID: 0}
   wiiUGamePadStartupScreen: {fileID: 0}
   wiiUProfilerLibPath: 
+=======
+>>>>>>> a059bed... map bug
   actionOnDotNetUnhandledException: 1
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
@@ -244,6 +277,7 @@ PlayerSettings:
   ps4BackgroundImagePath: 
   ps4StartupImagePath: 
   ps4SaveDataImagePath: 
+<<<<<<< HEAD
   ps4SdkOverride: 
   ps4BGMPath: 
   ps4ShareFilePath: 
@@ -252,19 +286,29 @@ PlayerSettings:
   ps4NPtitleDatPath: 
   ps4RemotePlayKeyAssignment: -1
   ps4RemotePlayKeyMappingDir: 
+=======
+  ps4BGMPath: 
+  ps4ShareFilePath: 
+  ps4NPtitleDatPath: 
+  ps4RemotePlayKeyAssignment: -1
+>>>>>>> a059bed... map bug
   ps4EnterButtonAssignment: 1
   ps4ApplicationParam1: 0
   ps4ApplicationParam2: 0
   ps4ApplicationParam3: 0
   ps4ApplicationParam4: 0
+<<<<<<< HEAD
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
+=======
+>>>>>>> a059bed... map bug
   ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
   ps4pnGameCustomData: 1
   playerPrefsSupport: 0
+<<<<<<< HEAD
   ps4ReprojectionSupport: 0
   ps4UseAudio3dBackend: 0
   ps4Audio3dVirtualSpeakerCount: 14
@@ -273,12 +317,17 @@ PlayerSettings:
   ps4attrib3DSupport: 0
   ps4attribShareSupport: 0
   ps4IncludedModules: []
+=======
+>>>>>>> a059bed... map bug
   monoEnv: 
   psp2Splashimage: {fileID: 0}
   psp2NPTrophyPackPath: 
   psp2NPSupportGBMorGJP: 0
   psp2NPAgeRating: 12
+<<<<<<< HEAD
   psp2NPTitleDatPath: 
+=======
+>>>>>>> a059bed... map bug
   psp2NPCommsID: 
   psp2NPCommunicationsID: 
   psp2NPCommsPassphrase: 
@@ -293,7 +342,10 @@ PlayerSettings:
   psp2PatchOriginalPackage: 
   psp2PackagePassword: F69AzBlax3CF3EDNhm3soLBPh71Yexui
   psp2KeystoneFile: 
+<<<<<<< HEAD
   psp2MemoryExpansionMode: 0
+=======
+>>>>>>> a059bed... map bug
   psp2DRMType: 0
   psp2StorageType: 0
   psp2MediaCapacity: 0
@@ -409,6 +461,7 @@ PlayerSettings:
   blackberrySquareSplashScreen: {fileID: 0}
   tizenProductDescription: 
   tizenProductURL: 
+<<<<<<< HEAD
   tizenSigningProfileName: 
   tizenGPSPermissions: 0
   tizenMicrophonePermissions: 0
@@ -423,6 +476,12 @@ PlayerSettings:
   n3dsTitle: GameName
   n3dsProductCode: 
   n3dsApplicationId: 0xFF3FF
+=======
+  tizenCertificatePath: 
+  tizenCertificatePassword: 
+  tizenGPSPermissions: 0
+  tizenMicrophonePermissions: 0
+>>>>>>> a059bed... map bug
   stvDeviceAddress: 
   stvProductDescription: 
   stvProductAuthor: 
@@ -439,7 +498,10 @@ PlayerSettings:
   XboxOnePackagingOverridePath: 
   XboxOneAppManifestOverridePath: 
   XboxOnePackageEncryption: 0
+<<<<<<< HEAD
   XboxOnePackageUpdateGranularity: 2
+=======
+>>>>>>> a059bed... map bug
   XboxOneDescription: 
   XboxOneIsContentPackage: 0
   XboxOneEnableGPUVariability: 0
@@ -448,26 +510,36 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   intPropertyNames:
+<<<<<<< HEAD
   - Android::ScriptingBackend
   - Metro::ScriptingBackend
   - Standalone::ScriptingBackend
+=======
+  - Metro::ScriptingBackend
+>>>>>>> a059bed... map bug
   - WP8::ScriptingBackend
   - WebGL::ScriptingBackend
   - WebGL::audioCompressionFormat
   - WebGL::exceptionSupport
   - WebGL::memorySize
   - iOS::Architecture
+<<<<<<< HEAD
   - iOS::EnableIncrementalBuildSupportForIl2cpp
   - iOS::ScriptingBackend
   Android::ScriptingBackend: 0
   Metro::ScriptingBackend: 2
   Standalone::ScriptingBackend: 0
+=======
+  - iOS::ScriptingBackend
+  Metro::ScriptingBackend: 2
+>>>>>>> a059bed... map bug
   WP8::ScriptingBackend: 2
   WebGL::ScriptingBackend: 1
   WebGL::audioCompressionFormat: 4
   WebGL::exceptionSupport: 0
   WebGL::memorySize: 256
   iOS::Architecture: 2
+<<<<<<< HEAD
   iOS::EnableIncrementalBuildSupportForIl2cpp: 0
   iOS::ScriptingBackend: 0
   boolPropertyNames:
@@ -489,3 +561,15 @@ PlayerSettings:
   projectName: 
   organizationId: 
   cloudEnabled: 0
+=======
+  iOS::ScriptingBackend: 0
+  boolPropertyNames:
+  - WebGL::dataCaching
+  WebGL::dataCaching: 0
+  stringPropertyNames:
+  - WebGL::emscriptenArgs
+  - WebGL::template
+  WebGL::emscriptenArgs: 
+  WebGL::template: APPLICATION:Default
+  firstStreamedLevelWithResources: 0
+>>>>>>> a059bed... map bug

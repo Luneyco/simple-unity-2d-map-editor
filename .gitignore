@@ -8,14 +8,26 @@
 *.unityproj
 *.sln
 *.suo
+<<<<<<< HEAD
+=======
+*.tmp
+>>>>>>> bb29ed18aa056f6900de7e0c1f3253b81a1c8ea8
 *.user
 *.userprefs
 *.pidb
 *.booproj
 
+<<<<<<< HEAD
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
 # Certificates
 *.pfx
 *.pfx.meta
+=======
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+>>>>>>> bb29ed18aa056f6900de7e0c1f3253b81a1c8ea8
